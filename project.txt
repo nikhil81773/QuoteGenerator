@@ -1,0 +1,5 @@
+https://www.heropatterns.com/
+https://fonts.google.com/
+https://quotes-react.netlify.app/
+https://type.fit/api/quotes   // which can be obtained from the reuest get methodin the network developer tools
+https://twitter.com/intent/tweet
